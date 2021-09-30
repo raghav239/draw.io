@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-30T21:19:50.501Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="AXkTgQQ1t26cMY7_Vmn0" version="15.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-30T21:29:42.756Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="UcOWuzIfjflan7s_3Pwv" version="15.4.0" type="github">
   <diagram name="Page-1" id="55a83fd1-7818-8e21-69c5-c3457e3827bb">
     <mxGraphModel dx="925" dy="1351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#283618" math="0" shadow="0">
       <root>
@@ -131,7 +131,16 @@
           <mxGeometry x="485" y="530" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="S9aq4LW4VfnEBPKxYs44-63" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://sm.pcmag.com/pcmag_me/photo/default/tata-communications-logo-1_9hz2.jpg;" vertex="1" parent="1">
-          <mxGeometry x="150" y="540" width="131.65" height="40" as="geometry" />
+          <mxGeometry x="158.35" y="555" width="131.65" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S9aq4LW4VfnEBPKxYs44-67" value="&lt;b&gt;Primary&amp;nbsp;&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=#008a00;strokeColor=#005700;rounded=0;sketch=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="360" y="630" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="S9aq4LW4VfnEBPKxYs44-68" value="&lt;b&gt;Primary&amp;nbsp;&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=#a20025;strokeColor=#6F0000;rounded=0;sketch=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="510" y="620" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="S9aq4LW4VfnEBPKxYs44-69" value="&lt;b&gt;Fail Over&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=#e51400;strokeColor=#B20000;rounded=0;sketch=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="180.82000000000002" y="630" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
