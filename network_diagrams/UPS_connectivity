@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-01T19:45:43.969Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="qUCKmnxDSwr3uQIGslgR" version="15.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-01T19:48:18.818Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="yaSuuaYnSIUUT0W37Kai" version="15.4.0" type="github">
   <diagram name="Page-1" id="55a83fd1-7818-8e21-69c5-c3457e3827bb">
     <mxGraphModel dx="925" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#114B5F" math="0" shadow="0">
       <root>
@@ -60,11 +60,17 @@
             <mxPoint x="620" y="396" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d06POQMRtWwbYRmf_7me-48" value="" style="swimlane;startSize=0;rounded=0;sketch=0;fontColor=#E4FDE1;strokeColor=#190033;strokeWidth=4;fillColor=#F45B69;" vertex="1" parent="1">
+        <mxCell id="d06POQMRtWwbYRmf_7me-48" value="" style="swimlane;startSize=0;rounded=0;sketch=0;fontColor=#E4FDE1;strokeColor=#FF6666;strokeWidth=4;fillColor=#F45B69;" vertex="1" parent="1">
           <mxGeometry x="240" y="270" width="770" height="240" as="geometry" />
         </mxCell>
         <mxCell id="d06POQMRtWwbYRmf_7me-49" value="" style="swimlane;startSize=0;rounded=0;sketch=0;fontColor=#E4FDE1;strokeColor=#FFB570;strokeWidth=4;fillColor=#F45B69;" vertex="1" parent="1">
           <mxGeometry x="240" y="600" width="850" height="266" as="geometry" />
+        </mxCell>
+        <mxCell id="d06POQMRtWwbYRmf_7me-50" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;u&gt;Note: 20KVA is located in Server room and it is dedicated to only Floor (all work stations) and Emergency lights&lt;/u&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;sketch=0;fontColor=#E4FDE1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="570" width="700" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d06POQMRtWwbYRmf_7me-51" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;u&gt;Note: 2KVA is located in Server room and it is dedicated to only server room equipment only&lt;/u&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;sketch=0;fontColor=#E4FDE1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="240" width="590" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
