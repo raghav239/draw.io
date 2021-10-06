@@ -1,23 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2021-10-06T14:32:10.369Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="K84xmqEgKqdWsVxPuamw" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-06T14:41:17.061Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="o4g-7rjiRiHsQnhaY5he" version="15.4.1" type="github">
   <diagram name="Page-1" id="55a83fd1-7818-8e21-69c5-c3457e3827bb">
-    <mxGraphModel dx="925" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#283618" math="0" shadow="0">
+    <mxGraphModel dx="2025" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#283618" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="PTqom0f8WXwLCaSElVMS-6" value="" style="image;html=1;image=img/lib/clip_art/networking/Cloud_128x128.png;rounded=0;sketch=0;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;" vertex="1" parent="1">
+        <mxCell id="PTqom0f8WXwLCaSElVMS-6" value="" style="image;html=1;image=img/lib/clip_art/networking/Cloud_128x128.png;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;" vertex="1" parent="1">
           <mxGeometry x="400" y="630" width="60" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="PTqom0f8WXwLCaSElVMS-8" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;" vertex="1" parent="1">
+        <mxCell id="PTqom0f8WXwLCaSElVMS-8" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;" vertex="1" parent="1">
           <mxGeometry x="400" y="540" width="60" height="100" as="geometry" />
         </mxCell>
         <mxCell id="PTqom0f8WXwLCaSElVMS-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.cisco.com/c/dam/en/us/support/docs/smb/routers/cisco-rv-series-small-business-routers/images/2849-1-v2.png;" vertex="1" parent="1">
           <mxGeometry x="328.27" y="480" width="203.46" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PTqom0f8WXwLCaSElVMS-10" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;" vertex="1" parent="1">
+        <mxCell id="PTqom0f8WXwLCaSElVMS-10" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;" vertex="1" parent="1">
           <mxGeometry x="400" y="380" width="60" height="100" as="geometry" />
         </mxCell>
         <mxCell id="PTqom0f8WXwLCaSElVMS-12" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.ubuy.co.in/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNzF0dXFrbGJhZ0wuX0FDX1NMMTUwMF8uanBn.jpg;" vertex="1" parent="1">
           <mxGeometry x="337.14" y="320" width="185.71" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PTqom0f8WXwLCaSElVMS-14" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.secureitstore.com/images/Access-Points/100-Series/100-series-access-points-600x400.png;" vertex="1" parent="1">
+          <mxGeometry x="179.99999999999997" y="30" width="224.78" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="PTqom0f8WXwLCaSElVMS-15" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.secureitstore.com/images/Access-Points/100-Series/100-series-access-points-600x400.png;" vertex="1" parent="1">
+          <mxGeometry x="420" y="17.5" width="224.78" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="PTqom0f8WXwLCaSElVMS-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://m.media-amazon.com/images/I/410OIp6q3RL._SY355_.jpg;" vertex="1" parent="1">
+          <mxGeometry x="770" y="42.5" width="125" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="PTqom0f8WXwLCaSElVMS-19" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;fontColor=#FEFAE0;strokeColor=#6c8ebf;strokeWidth=4;fillColor=#dae8fc;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="318" as="sourcePoint" />
+            <mxPoint x="820" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="318" />
+              <mxPoint x="460" y="260" />
+              <mxPoint x="820" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PTqom0f8WXwLCaSElVMS-20" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;fontColor=#FEFAE0;strokeColor=#C73500;strokeWidth=4;fillColor=#fa6800;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="PTqom0f8WXwLCaSElVMS-12" target="PTqom0f8WXwLCaSElVMS-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="300" as="sourcePoint" />
+            <mxPoint x="470" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="230" />
+              <mxPoint x="532" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PTqom0f8WXwLCaSElVMS-21" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;fontColor=#FEFAE0;strokeColor=#C73500;strokeWidth=4;fillColor=#fa6800;edgeStyle=orthogonalEdgeStyle;exitX=0.338;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="PTqom0f8WXwLCaSElVMS-12" target="PTqom0f8WXwLCaSElVMS-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="310" as="sourcePoint" />
+            <mxPoint x="500" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="230" />
+              <mxPoint x="290" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PTqom0f8WXwLCaSElVMS-23" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://m.media-amazon.com/images/I/614UKLZaeFL._SL1144_.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-120.00000000000001" y="50" width="216.67" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="PTqom0f8WXwLCaSElVMS-24" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;fontColor=#FEFAE0;strokeColor=#6F0000;strokeWidth=4;fillColor=#a20025;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="360" as="sourcePoint" />
+            <mxPoint x="-20" y="220" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
